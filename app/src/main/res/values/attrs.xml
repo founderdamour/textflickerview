@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <declare-styleable name="TextFlickerView">
+        <attr name="TextFlickerItemWidth" format="integer"/>
+        <attr name="TextFlickerItemColor" format="color"/>
+        <attr name="TextFlickerColor" format="color"/>
+        <attr name="TextFlickerItemTime" format="integer"/>
+    </declare-styleable>
+</resources>
